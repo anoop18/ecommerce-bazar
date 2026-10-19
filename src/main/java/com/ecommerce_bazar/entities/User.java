@@ -6,7 +6,6 @@ import org.jspecify.annotations.Nullable;
 
 @Entity
 @Table(name = "users")
-@AllArgsConstructor
 @NoArgsConstructor
 @Setter
 @Getter
